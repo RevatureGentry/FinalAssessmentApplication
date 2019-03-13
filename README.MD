@@ -94,7 +94,7 @@ Download the appropriate installer / zip archive from link https://directory.apa
 
 ### UI Deployment
 
-1. Production build is available in release branch "https://code.cognizant.com/cde-pace-lab/OnlineRetailStore/tree/release/deployment/ui"
+1. Production build is available in release branch "/deployment/ui"
 2. Copy all contents of ui to directory (<Path to UI Module>/training/online-retail-ui)
 
 ## The Online Retails Shop
