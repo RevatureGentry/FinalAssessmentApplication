@@ -85,10 +85,10 @@ Download the appropriate installer / zip archive from link https://directory.apa
 
 		</Directory>
 		```
-2. Setup reverse proxy for microservice layer. Add below configuration to apache config file. Change the "pacelab.cognizant.com" to appropriate domain or ip in the below config.
+2. Setup reverse proxy for microservice layer. Add below configuration to apache config file. Change the "localhost" to appropriate domain or ip in the below config.
 		```
-		ProxyPass /retail  http://pacelab.cognizant.com:10001/retail
-		ProxyPassReverse /retail  http://pacelab.cognizant.com:10001/retail
+		ProxyPass /retail  http://localhost:10001/retail
+		ProxyPassReverse /retail  http://localhost:10001/retail
 		```
 3. Restart Apache instance
 
