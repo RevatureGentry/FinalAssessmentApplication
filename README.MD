@@ -1,8 +1,6 @@
 # 1	Assessment pre-requisites
  
- This will have details of software and tools required for assessment. This will also have instructions on installation process and how to deploy and configure sample application. I can share this document as soon as it is ready and, if needed, I can have a pairing session with one of the instructors to walk-through the process. We would like the candidates to have this step completed with instructions from the document without much assistance which will help them score Bonus points.
- •	When will it be shared: 1 week before assessment
- •	Recommended Duration: 1 - 2 day
+ This will have details of software and tools required for assessment. This will also have instructions on installation process and how to deploy and configure sample application. 
 
 ## 1.1	Assessment Application
 
