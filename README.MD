@@ -1,10 +1,11 @@
-#1	Assessment pre-requisites
+# 1	Assessment pre-requisites
  
  This will have details of software and tools required for assessment. This will also have instructions on installation process and how to deploy and configure sample application. I can share this document as soon as it is ready and, if needed, I can have a pairing session with one of the instructors to walk-through the process. We would like the candidates to have this step completed with instructions from the document without much assistance which will help them score Bonus points.
  •	When will it be shared: 1 week before assessment
  •	Recommended Duration: 1 - 2 day
 
-##1.1	Assessment Application
+## 1.1	Assessment Application
+
  Online Retail Application: This application was built for internal training and evaluation purposes. This Online retail application was developed from a sample shop application. 
 
 ### 1.1.1	Architecture
@@ -12,7 +13,7 @@
     The application is built on ReactsJS user interface, Spring Boot based micorservices layer to serve the data demands, Netflix OSS based API layer and MySQL database to hold the retail store data.
 
 
-1.1.2	Deployment
+### 1.1.2	Deployment
 
 The section describes the step by step instruction to host the application in target infrastructure (On-Premise or cloud)
 
@@ -97,26 +98,26 @@ Download the appropriate installer / zip archive from link https://directory.apa
 
 The URL for the content is `http://<application domain>/training/retail`
 
-##4.1	Performance Engineering Tool Requirements
+## 4.1	Performance Engineering Tool Requirements
 
-###4.1.1	Performance Testing 
+### 4.1.1	Performance Testing 
 
 JMeter or similar load generation and performance testing tools
 
-###4.1.2	Infrastructure monitoring
+### 4.1.2	Infrastructure monitoring
 
 Perfmon or similar infrastructure monitoring tools to analyze CPU, Memory, Network and Storage performance
 
-###4.1.3	Profiling Tools
+### 4.1.3	Profiling Tools
 
-####4.1.3.1	UI Profiling
+#### 4.1.3.1	UI Profiling
 
 UI Performance Profiling Tools similar to Fiddler
 
-####4.1.3.2	Application Profiling
+#### 4.1.3.2	Application Profiling
 
 Java profiler, Thread dump analysis and heap dump analysis tools like JProfiler, VisualVM, MAT, etc.
 
-4.1.3.3	DB Profiling
+#### 4.1.3.3	DB Profiling
 
 MySQL DB Query profiling tool
