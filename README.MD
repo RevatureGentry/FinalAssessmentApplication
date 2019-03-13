@@ -9,6 +9,8 @@
 ### 1.1.1	Architecture
      
     The application is built on ReactsJS user interface, Spring Boot based micorservices layer to serve the data demands, Netflix OSS based API layer and MySQL database to hold the retail store data.
+    
+    Web Tier [Apache httpd] -> App Tier [SpringBoot Java Microservice] -> Data Tier [MySQL]
 
 
 ### 1.1.2	Deployment
