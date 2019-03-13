@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+
+<catalog>
+   <product description="Samsung Galaxy" version ="Note 9">
+      <catalog_item gender="Generic">
+         <item_number>QWZ5671</item_number>
+         <price>799.95</price>         
+         <size description="128 GB/6 GB RAM">
+            <color_swatch>Blue</color_swatch>
+            <color_swatch>Black</color_swatch>
+         </size>
+      </catalog_item>      
+   </product>
+   
+   <product description="Samsung Galaxy" version ="S9+">
+      <catalog_item gender="Generic">
+         <item_number>RWZ5671</item_number>
+         <price>639.95</price>
+         <size description="128 GB/4 GB RAM">
+            <color_swatch>Blue</color_swatch>
+            <color_swatch>Grey</color_swatch>
+         </size>         
+      </catalog_item>      
+   </product>
+   
+   <product description="Apple iPhone" version ="XS">
+      <catalog_item gender="Generic">
+         <item_number>RAZ5671</item_number>
+         <price>895.95</price>
+         <size description="128 GB/6 GB RAM">
+            <color_swatch>Blue</color_swatch>
+            <color_swatch>Grey</color_swatch>
+         </size>         
+      </catalog_item>      
+   </product>
+   <product description="Samsung Galaxy" version ="Note 9">
+      <catalog_item gender="Generic">
+         <item_number>QWZ5671</item_number>
+         <price>799.95</price>         
+         <size description="128 GB/6 GB RAM">
+            <color_swatch>Blue</color_swatch>
+            <color_swatch>Black</color_swatch>
+         </size>
+      </catalog_item>      
+   </product>
+   
+   <product description="Samsung Galaxy" version ="S9+">
+      <catalog_item gender="Generic">
+         <item_number>RWZ5671</item_number>
+         <price>639.95</price>
+         <size description="128 GB/4 GB RAM">
+            <color_swatch>Blue</color_swatch>
+            <color_swatch>Grey</color_swatch>
+         </size>         
+      </catalog_item>      
+   </product>
+   
+   <product description="Apple iPhone" version ="XS">
+      <catalog_item gender="Generic">
+         <item_number>RAZ5671</item_number>
+         <price>895.95</price>
+         <size description="128 GB/6 GB RAM">
+            <color_swatch>Blue</color_swatch>
+            <color_swatch>Grey</color_swatch>
+         </size>         
+      </catalog_item>      
+   </product>
+   <product description="Samsung Galaxy" version ="Note 9">
+      <catalog_item gender="Generic">
+         <item_number>QWZ5671</item_number>
+         <price>799.95</price>         
+         <size description="128 GB/6 GB RAM">
+            <color_swatch>Blue</color_swatch>
+            <color_swatch>Black</color_swatch>
+         </size>
+      </catalog_item>      
+   </product>
+   
+   <product description="Samsung Galaxy" version ="S9+">
+      <catalog_item gender="Generic">
+         <item_number>RWZ5671</item_number>
+         <price>639.95</price>
+         <size description="128 GB/4 GB RAM">
+            <color_swatch>Blue</color_swatch>
+            <color_swatch>Grey</color_swatch>
+         </size>         
+      </catalog_item>      
+   </product>
+   
+   <product description="Apple iPhone" version ="XS">
+      <catalog_item gender="Generic">
+         <item_number>RAZ5671</item_number>
+         <price>895.95</price>
+         <size description="128 GB/6 GB RAM">
+            <color_swatch>Blue</color_swatch>
+            <color_swatch>Grey</color_swatch>
+         </size>         
+      </catalog_item>      
+   </product>
+   <product description="Samsung Galaxy" version ="Note 9">
+      <catalog_item gender="Generic">
+         <item_number>QWZ5671</item_number>
+         <price>799.95</price>         
+         <size description="128 GB/6 GB RAM">
+            <color_swatch>Blue</color_swatch>
+            <color_swatch>Black</color_swatch>
+         </size>
+      </catalog_item>      
+   </product>
+   
+   <product description="Samsung Galaxy" version ="S9+">
+      <catalog_item gender="Generic">
+         <item_number>RWZ5671</item_number>
+         <price>639.95</price>
+         <size description="128 GB/4 GB RAM">
+            <color_swatch>Blue</color_swatch>
+            <color_swatch>Grey</color_swatch>
+         </size>         
+      </catalog_item>      
+   </product>
+   
+   <product description="Apple iPhone" version ="XS">
+      <catalog_item gender="Generic">
+         <item_number>RAZ5671</item_number>
+         <price>895.95</price>
+         <size description="128 GB/6 GB RAM">
+            <color_swatch>Blue</color_swatch>
+            <color_swatch>Grey</color_swatch>
+         </size>         
+      </catalog_item>      
+   </product>
+   <product description="Samsung Galaxy" version ="Note 9">
+      <catalog_item gender="Generic">
+         <item_number>QWZ5671</item_number>
+         <price>799.95</price>         
+         <size description="128 GB/6 GB RAM">
+            <color_swatch>Blue</color_swatch>
+            <color_swatch>Black</color_swatch>
+         </size>
+      </catalog_item>      
+   </product>
+   
+   <product description="Samsung Galaxy" version ="S9+">
+      <catalog_item gender="Generic">
+         <item_number>RWZ5671</item_number>
+         <price>639.95</price>
+         <size description="128 GB/4 GB RAM">
+            <color_swatch>Blue</color_swatch>
+            <color_swatch>Grey</color_swatch>
+         </size>         
+      </catalog_item>      
+   </product>
+   
+   <product description="Apple iPhone" version ="XS">
+      <catalog_item gender="Generic">
+         <item_number>RAZ5671</item_number>
+         <price>895.95</price>
+         <size description="128 GB/6 GB RAM">
+            <color_swatch>Blue</color_swatch>
+            <color_swatch>Grey</color_swatch>
+         </size>         
+      </catalog_item>      
+   </product>
+   <product description="Samsung Galaxy" version ="Note 9">
+      <catalog_item gender="Generic">
+         <item_number>QWZ5671</item_number>
+         <price>799.95</price>         
+         <size description="128 GB/6 GB RAM">
+            <color_swatch>Blue</color_swatch>
+            <color_swatch>Black</color_swatch>
+         </size>
+      </catalog_item>      
+   </product>
+   
+   <product description="Samsung Galaxy" version ="S9+">
+      <catalog_item gender="Generic">
+         <item_number>RWZ5671</item_number>
+         <price>639.95</price>
+         <size description="128 GB/4 GB RAM">
+            <color_swatch>Blue</color_swatch>
+            <color_swatch>Grey</color_swatch>
+         </size>         
+      </catalog_item>      
+   </product>
+   
+   <product description="Apple iPhone" version ="XS">
+      <catalog_item gender="Generic">
+         <item_number>RAZ5671</item_number>
+         <price>895.95</price>
+         <size description="128 GB/6 GB RAM">
+            <color_swatch>Blue</color_swatch>
+            <color_swatch>Grey</color_swatch>
+         </size>         
+      </catalog_item>      
+   </product>
+   <product description="Samsung Galaxy" version ="Note 9">
+      <catalog_item gender="Generic">
+         <item_number>QWZ5671</item_number>
+         <price>799.95</price>         
+         <size description="128 GB/6 GB RAM">
+            <color_swatch>Blue</color_swatch>
+            <color_swatch>Black</color_swatch>
+         </size>
+      </catalog_item>      
+   </product>
+   
+   <product description="Samsung Galaxy" version ="S9+">
+      <catalog_item gender="Generic">
+         <item_number>RWZ5671</item_number>
+         <price>639.95</price>
+         <size description="128 GB/4 GB RAM">
+            <color_swatch>Blue</color_swatch>
+            <color_swatch>Grey</color_swatch>
+         </size>         
+      </catalog_item>      
+   </product>
+   
+   <product description="Apple iPhone" version ="XS">
+      <catalog_item gender="Generic">
+         <item_number>RAZ5671</item_number>
+         <price>895.95</price>
+         <size description="128 GB/6 GB RAM">
+            <color_swatch>Blue</color_swatch>
+            <color_swatch>Grey</color_swatch>
+         </size>         
+      </catalog_item>      
+   </product>
+</catalog>
