@@ -17,7 +17,8 @@
 
 The section describes the step by step instruction to host the application in target infrastructure (On-Premise or cloud)
 
-`Prerequisites
+*Prerequisites*
+
 •	Apache httpd web server 2.4
 •	JDK 1.8+
 •	MySQL 5+
