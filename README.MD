@@ -23,7 +23,7 @@ The section describes the step by step instruction to host the application in ta
 
 •	JDK 1.8+
 
-•	MySQL 5+
+•	MySQL 5.6
 
 ### Database layer
 
@@ -63,18 +63,23 @@ Check the inserted data by running the query "select * from product"
 Note: This service layer requires java jdk 1.8+. 
 		
 
+Troubleshoot any errors / issues by reviewing log files. For more information on application properties and log files, please refer conf directory. 
+
 ### Apache Web Server Installation for Windows
 
 Download the appropriate installer / zip archive from link https://directory.apache.org/studio/download/download-windows.html and follow the setup instructions
 
+https://www.apachelounge.com/download/
+
+
 ### Apache Web Server Configuration
 
-1. Modify direcotry configuration in apache config file and change "<Path to UI module>/training/online-retail-ui" to corresponding location of ui build. Refer this link for windows https://thecodecentral.com/2007/03/24/setting-up-your-own-web-server-with-apache-http-server-php-and-mysql-on-a-windows-machine#Changing_Document_Root
+1. Modify directory configuration in apache config file and change "<Path to UI module>/training/online-retail-ui" to corresponding location of ui build. Refer this link for windows https://thecodecentral.com/2007/03/24/setting-up-your-own-web-server-with-apache-http-server-php-and-mysql-on-a-windows-machine#Changing_Document_Root
 
 		```
 		Alias /training/retail <Path to IU Module>/training/online-retail-ui
 
-		<Directory /apps/training/online-retail>
+		<Directory /training/online-retail>
 
 			## No MultiViews
 			AddOutputFilterByType DEFLATE text/html
@@ -96,6 +101,8 @@ Download the appropriate installer / zip archive from link https://directory.apa
 
 1. Production build is available in release branch "/deployment/ui"
 2. Copy all contents of ui to directory (<Path to UI Module>/training/online-retail-ui)
+
+Please ensure that httpd timeout value is increased to 600 seconds to avoid timeout.
 
 ## The Online Retails Shop
 
@@ -124,3 +131,31 @@ Java profiler, Thread dump analysis and heap dump analysis tools like JProfiler,
 #### 4.1.3.3	DB Profiling
 
 MySQL DB Query profiling tool
+
+#5	Performance scripting 
+
+##5.1	User Registration
+
+Online Retail Store Training Application Traversal Flow
+
+Transaction 1: Launch the Online Retail Store Application Url: https://localhost:8080/training/retail
+
+
+
+Transaction 2: For New User click Register and enter the Username & Password
+
+
+##5.2	Purchase
+
+Transaction 1: Launch the Online Retail Store Application Url: https://localhost:8080/training/retail
+
+Transaction 2: Click Sign in and enter the Username and Password
+
+Transaction 3: For adding the respective item to the Cart click ADD. To do the purchase for the selected item click Checkout
+
+Transaction 4: In check-out page enter the Credit Card information and Billing information and then click Complete Order
+
+Transaction 5: Once the order is completed, completed successful message will be displayed
+
+
+
