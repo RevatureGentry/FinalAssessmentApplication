@@ -132,9 +132,9 @@ Java profiler, Thread dump analysis and heap dump analysis tools like JProfiler,
 
 MySQL DB Query profiling tool
 
-#5	Performance scripting 
+# 5	Performance scripting 
 
-##5.1	User Registration
+## 5.1	User Registration
 
 Online Retail Store Training Application Traversal Flow
 
@@ -145,7 +145,7 @@ Transaction 1: Launch the Online Retail Store Application Url: https://localhost
 Transaction 2: For New User click Register and enter the Username & Password
 
 
-##5.2	Purchase
+## 5.2	Purchase
 
 Transaction 1: Launch the Online Retail Store Application Url: https://localhost:8080/training/retail
 
